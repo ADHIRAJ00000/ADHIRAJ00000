@@ -12,7 +12,8 @@ MERN Stack | DSA Enthusiast | Aspiring Data Analyst | Always Learning
 
 
 <img align="right" alt="coding" width="350" 
-src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif">
+src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+
 
 
 
