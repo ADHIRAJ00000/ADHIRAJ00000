@@ -12,7 +12,7 @@ MERN Stack | DSA Enthusiast | Aspiring Data Analyst | Always Learning
 
 
 <img align="right" alt="coding" width="350" 
-src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif">
+src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif">
 
 
 
