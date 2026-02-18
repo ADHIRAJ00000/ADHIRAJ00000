@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adhiraj Singh</h1>
 
-<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="center">
 Full-stack developer passionate about building scalable web apps and solving real-world problems.
@@ -10,6 +9,7 @@ Full-stack developer passionate about building scalable web apps and solving rea
 MERN Stack | DSA Enthusiast | Aspiring Data Analyst | Always Learning
 </p>
 
+<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 ---
 
 ### 🚀 About Me
