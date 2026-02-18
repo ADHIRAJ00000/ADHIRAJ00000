@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adhiraj Singh</h1>
 
+<img align="right" alt="coding" width="350" 
+src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif">
 
 <p align="center">
 Full-stack developer passionate about building scalable web apps and solving real-world problems.
@@ -9,13 +11,7 @@ Full-stack developer passionate about building scalable web apps and solving rea
 MERN Stack | DSA Enthusiast | Aspiring Data Analyst | Always Learning
 </p>
 
-<img align="right" alt="coding" width="350" 
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/coding.gif">
-
-
-
-
-
+---
 
 ### 🚀 About Me
 - 🔭 Currently working on **full-stack and real-world projects**
@@ -24,6 +20,7 @@ src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generat
 - 💬 Ask me about **MERN, DSA, Web Development, Data Analytics**
 - 📫 Reach me at: **adhirajsingh00000@gmail.com**
 - 🌐 Portfolio: **https://adhiraj-singh-personal-portfolio-47.vercel.app/**
+
 
 
 
