@@ -9,9 +9,10 @@ Full-stack developer passionate about building scalable web apps and solving rea
 MERN Stack | DSA Enthusiast | Aspiring Data Analyst | Always Learning
 </p>
 
-<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ---
+
+<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 🚀 About Me
 - 🔭 Currently working on **full-stack and real-world projects**
