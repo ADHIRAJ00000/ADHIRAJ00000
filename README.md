@@ -11,7 +11,7 @@ MERN Stack | DSA Enthusiast | Aspiring Data Analyst | Always Learning
 </p>
 
 
-<img align="right" alt="coding" width="350" 
+<img align="right" alt="coding" width="340" 
 src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
