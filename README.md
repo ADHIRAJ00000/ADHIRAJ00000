@@ -41,7 +41,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ### 🛠️ Languages and Tools
 <p>
-<img src="https://skillicons.dev/icons?i=html,tailwind,js,python,java,cpp,react,nodejs,express,mongodb,supabase,git,github,postman,redux,mysql,django,flask" />
+<img src="https://skillicons.dev/icons?i=html,tailwind,js,python,java,cpp,react,nodejs,express,mongodb,supabase,nextjs,git,github,postman,redux,mysql,fastapi,flask" />
 </p>
 
 
