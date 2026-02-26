@@ -35,6 +35,10 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <a href="https://www.linkedin.com/in/adhiraj-singh-bb511127b/" target="blank">
 <img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
+
+<a href="https://www.instagram.com/adhiraj.00/" target="blank">
+<img align="center" src="https://skillicons.dev/icons?i=instagram" height="40" />
+</a>
 </p>
 
 
