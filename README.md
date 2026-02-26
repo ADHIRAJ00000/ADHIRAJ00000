@@ -7,7 +7,7 @@ Full-stack developer passionate about building scalable web apps and solving rea
 </p>
 
 <p align="center">
-| DSA Enthusiast | Aspiring Data Analyst | Always Learning
+DSA Enthusiast | Aspiring Data Analyst | Always Learning
 </p>
 
 
