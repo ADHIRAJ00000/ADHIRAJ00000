@@ -23,7 +23,7 @@ src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 Currently working on **full-stack and real-world projects**
 - 🌱 Learning **advanced DSA and Data Analytics**
 - 👯 Open to **collaborations and open-source**
-- 💬 Ask me about ** DSA , Web Development , Agentic AI , Data Analytics**
+- 💬 Ask me about ** DSA , Web Development , Agentic AI , Data Analytics **
 - 📫 Reach me at: **adhirajsingh00000@gmail.com**
 - 🌐 Portfolio: **https://adhiraj-singh-personal-portfolio-47.vercel.app/**
 
